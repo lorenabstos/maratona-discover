@@ -20,3 +20,6 @@ Maratona Discover • <img src="https://embed.filekitcdn.com/e/tBsgk1B9duMKbVtFj
   <i>responsividade da aplicação</i><br>
   <img src="https://github.com/narelo/maratona-discover/blob/main/assets/gif2.gif?raw=true" alt="gif app responsive">
 </p>
+
+<hr>
+<h4> 🚀 never stop learning 🚀 </h4>
