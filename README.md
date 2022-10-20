@@ -9,7 +9,6 @@ Maratona Discover • <img src="https://embed.filekitcdn.com/e/tBsgk1B9duMKbVtFj
 <h4>Updates</h4>
 <ul>
   <li><img src="https://github.com/narelo/maratona-discover/blob/main/assets/eye-icon.png?raw=true" width="20"> Mostrar/Ocultar Saldo</li>
-  <li><img src="https://github.com/narelo/maratona-discover/blob/main/assets/icon.png?raw=true" width="20"> Design</li>
 </ul>
 
 <hr>
