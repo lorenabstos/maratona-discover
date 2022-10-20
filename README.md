@@ -3,7 +3,7 @@ Maratona Discover • <img src="https://embed.filekitcdn.com/e/tBsgk1B9duMKbVtFj
 </h1>
 
 <p align="center">
-<img src="https://github.com/narelo/maratona-discover/blob/main/assets/logo.png?raw=true" alt="logo" width="50"> <b>Aplicação financeira desenvolvida do zero com HTML, CSS e JavaScript.</b>
+<b>Aplicação financeira desenvolvida com HTML, CSS e JavaScript.</b>
 </p>
 
 <h4>Updates</h4>
@@ -15,10 +15,3 @@ Maratona Discover • <img src="https://embed.filekitcdn.com/e/tBsgk1B9duMKbVtFj
 
 <p align="center"><img src="https://github.com/narelo/maratona-discover/blob/main/assets/gif1.gif?raw=true" alt="gif app functions"></p>
 
-<p align="center">
-  <i>responsividade da aplicação</i><br>
-  <img src="https://github.com/narelo/maratona-discover/blob/main/assets/gif2.gif?raw=true" alt="gif app responsive">
-</p>
-
-<hr>
-<h4> 🚀 never stop learning 🚀 </h4>
